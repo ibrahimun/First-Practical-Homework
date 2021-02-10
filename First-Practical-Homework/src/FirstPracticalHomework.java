@@ -4,6 +4,6 @@
 public class FirstPracticalHomework 
 {
 public static void main(String[]args) {
-System.out.println("ÇáæÇíáí Úáí ÚÈÏÇááå ÇÈÑÇåíã");	
+System.out.println("Ibrahim abdulla ali al wayli");	
 }
 }
